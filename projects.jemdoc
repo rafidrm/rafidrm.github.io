@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{projects.html}
+= Projects 
+
+
+== invo - An Inverse Optimization Library
+
+
+
+invo is a Python package intended to simplify the use of inverse optimization as a model fitting practice. Our goal is to provide a general framework for formulating and solving inverse optimization problems, as well as implement a collection of inverse methods. As additional algorithms and methods arise in the literature, we can implement them using the same common framework.
+
+The flavour of this work is inspired from scikit-learn on Python. The code is available on [https://github.com/rafidrm/invo my Github.] There is also a [http://pyinvo.readthedocs.io/en/latest/ ReadTheDocs] for additional documentation on usage.
+
+
+
+== NHL Expansion Draft Optimizer for Vegas Golden Knights
+
+#~
+#{}{img_left}{NHL-Optimizer_500.gif}{NHL optimizer}{}{}
+
+ The Vegas Golden Knights are the newest team to enter the NHL and will play in their inaugural season in 2017-2018. On June 21, 2017, the team drafts 30 players, one from each of the 30 current NHL teams. Each of the existing teams is allowed to protect a certain number of players from being drafted, under a set of rules. Existing teams must submit a list of protected players by June 17, 2017.
+
+Our goal is to develop a web app that solves several optimization problems in real-time to determine (a) first the players that each existing team should protect, and (b) then the players that the Vegas Golden Knigths should draft. This tool takes in user parameters, i.e., how much to value on-ice performance, or financial flexibility, or a combination of different metrics, when selecting who to protect or draft, or individual players that a user may wish to protect or expose, and generates optimized rosters.
+
+Our work was covered in [https://www.thestar.com/sports/hockey/2017/06/13/u-of-t-engineers-an-expansion-roster-for-vegas-with-the-click-of-a-button.html The Toronto Star.] The web app is available [http://nhlexpansiondraft.com/ here.]
+#~
+
+
+

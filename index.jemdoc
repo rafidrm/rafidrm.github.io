@@ -1,4 +1,5 @@
-= Rafid Mahmood
+# jemdoc: menu{MENU}{index.html}
+= Rafid Mahmood 
 
 
 ~
@@ -6,29 +7,13 @@
 
 I am currently a PhD student with the Department of Mechanical and Industrial Engineering at the University of Toronto. My supervisor is Professor Timothy C. Y. Chan. 
 
-In 2014, I completed my Masters of Applied Science with the Department of Electrical and Computer Engineering at the University of Toronto under the supervision of Professor Ashish Khisti. My thesis is available [http://hdl.handle.net/1807/70480 here].
+In 2014, I completed my Masters of Applied Science with the Department of Electrical and Computer Engineering at the University of Toronto under the supervision of Professor Ashish Khisti. [http://hdl.handle.net/1807/70480 My thesis is available here].
+
+*My office:* RS308
+
+*My email:* rafid /dot/ mahmood /at/ mail /dot/ utoronto /dot/ ca
 
 ~
-
-== Contact
-
-Office: RS308
-
-Email: rafid /dot/ mahmood /at/ mail /dot/ utoronto /dot/ ca
-
-== Publications
-
-
-=== Journal
-- *R. Mahmood*, A. Badr, and A. Khisti, "Low Delay Network Streaming Under Burst Losses", /submitted to IEEE Transactions on Information Theory/, 2016.
-- *R. Mahmood*, A. Badr, and A. Khisti, “Convolutional Codes with Maximum Column Sum Rank for Network Streaming”, /accepted for IEEE Transactions on Information Theory/, 2015. [http://arxiv.org/abs/1506.03792 \[arXiv\]]
-- A. Badr, *R. Mahmood*, and A. Khisti, “Adaptive Streaming Codes”, 2015.
-
-=== Conference
-- *R. Mahmood*, A. Badr, and A. Khisti, "Low Delay Network Streaming Under Burst Losses", /accepted for International Symposium on Information Theory (ISIT) 2016/, 2016.
-- *R. Mahmood*, A. Badr, and A. Khisti, “Convolutional Codes with Maximum Column Sum Rank for Network Streaming”, /International Symposium on Information Theory (ISIT) 2015/, pp. 2271-2275, 2015.
-- A. Badr, *R. Mahmood*, and A. Khisti, “Embedded MDS Codes for Multicast Streaming”, /International Symposium on Information Theory (ISIT) 2015/, pp. 2276-2280, 2015.
-
 
 
 
