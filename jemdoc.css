@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Fira Sans;
+	font-family: Fira Sans, arial;
 	padding-bottom: 8px;
 	margin: 0;
 }
