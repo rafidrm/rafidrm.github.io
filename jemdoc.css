@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Fira Sans, arial;
+	font-family: 'Fira Sans', sans-serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -92,7 +92,7 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	border-bottom: 0px double gray;
+	border-bottom: 0.5px #527bbd;
 }
 
 /* Reduce space if we begin the page with a title. */
@@ -123,7 +123,7 @@ h1, h2, h3 {
 	padding-bottom: 0.2em;
 	line-height: 1.0;
 	padding-top: 0.5em;
-	border-bottom: 0px solid #aaaaaa;
+	border-bottom: 0px solid #527bbd;
 }
 
 h1 {

@@ -140,7 +140,8 @@ def standardconf():
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-  
+  <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300+400" rel="stylesheet">
+
   [windowtitle]
   # used in header for window title.
   <title>|</title>
