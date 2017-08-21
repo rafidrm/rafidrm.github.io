@@ -1,26 +1,26 @@
 # jemdoc: menu{MENU}{research.html}
-=Publications and presentations
+=Research
 
 == Inverse optimization
 
 === Conference presentations (non-refereed)
-- *R. Mahmood*, T. C. Y. Chan, "Solution methods for generalized inverse optimization", /Canadian Operations Research Society (CORS)/, 2017.
-- *R. Mahmood*, T. C. Y. Chan, "Generalized inverse optimization with multiple observations", /Institute for Operations Research and the Management Sciences (INFORMS)/, 2016.
+        - *R. Mahmood*, T. C. Y. Chan, "Solution methods for generalized inverse optimization", /Canadian Operations Research Society (CORS)/, 2017.
+        - *R. Mahmood*, T. C. Y. Chan, "Generalized inverse optimization with multiple observations", /Institute for Operations Research and the Management Sciences (INFORMS)/, 2016.
 
 
 
 
-== Information theory, coding theory, and multimedia streaming
+        == Information theory, coding theory, and multimedia streaming
 
-=== Journal papers
-- *R. Mahmood*, A. Badr, and A. Khisti, "Low Delay Network Streaming Under Burst Losses", /submitted to IEEE Transactions on Information Theory/, 2016.
-- *R. Mahmood*, A. Badr, and A. Khisti, “Convolutional Codes with Maximum Column Sum Rank for Network Streaming”, /accepted for IEEE Transactions on Information Theory/, 2015. [http://arxiv.org/abs/1506.03792 \[arXiv\]]
-- A. Badr, *R. Mahmood*, and A. Khisti, “Adaptive Streaming Codes”, 2015.
+        === Journal papers
+        - *R. Mahmood*, A. Badr, and A. Khisti, "Low Delay Network Streaming Under Burst Losses", /submitted to IEEE Transactions on Information Theory/, 2016.
+        - *R. Mahmood*, A. Badr, and A. Khisti, “Convolutional Codes with Maximum Column Sum Rank for Network Streaming”, /accepted for IEEE Transactions on Information Theory/, 2015. [http://arxiv.org/abs/1506.03792 \[arXiv\]]
+        - A. Badr, *R. Mahmood*, and A. Khisti, “Adaptive Streaming Codes”, 2015.
 
-=== Conference papers
-- *R. Mahmood*, A. Badr, and A. Khisti, "Low Delay Network Streaming Under Burst Losses", /accepted for International Symposium on Information Theory (ISIT) 2016/, 2016.
-- *R. Mahmood*, A. Badr, and A. Khisti, “Convolutional Codes with Maximum Column Sum Rank for Network Streaming”, /International Symposium on Information Theory (ISIT) 2015/, pp. 2271-2275, 2015.
-- A. Badr, *R. Mahmood*, and A. Khisti, “Embedded MDS Codes for Multicast Streaming”, /International Symposium on Information Theory (ISIT) 2015/, pp. 2276-2280, 2015.
+        === Conference papers
+        - *R. Mahmood*, A. Badr, and A. Khisti, "Low Delay Network Streaming Under Burst Losses", /accepted for International Symposium on Information Theory (ISIT) 2016/, 2016.
+        - *R. Mahmood*, A. Badr, and A. Khisti, “Convolutional Codes with Maximum Column Sum Rank for Network Streaming”, /International Symposium on Information Theory (ISIT) 2015/, pp. 2271-2275, 2015.
+        - A. Badr, *R. Mahmood*, and A. Khisti, “Embedded MDS Codes for Multicast Streaming”, /International Symposium on Information Theory (ISIT) 2015/, pp. 2276-2280, 2015.
 
 
 
