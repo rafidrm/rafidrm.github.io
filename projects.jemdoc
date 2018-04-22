@@ -1,6 +1,13 @@
 # jemdoc: menu{MENU}{projects.html}
 = Projects
 
+== GANCER - Generative Adversarial Nets for Computationally Efficient Radiotherapy
+
+Knowledge-based planning (KBP) is an automated approach to radiation therapy treatment planning that involves first predicting a desirable treatment plan, before correcting it to a deliverable one. We proposed and implemented a GAN approach to predicting desirable 3D dose distributions. Experiments on a dataset of head and neck cancer patients show that our approach significantly outperforms previous methods on several clinical satisfaction criteria and similarity metrics.
+
+The code is available on [https://github.com/rafidrm/gancer my Github.] We submitted a paper to Machine Learning in Health Care 2018.
+
+
 
 == invo - An Inverse Optimization Library
 
