@@ -1,11 +1,17 @@
 # jemdoc: menu{MENU}{projects.html}
 = Projects
 
+
+== IPMAN - Interior Point Methods with Adversarial Networks
+
+IPMAN is a new methodology that combines interior point methods and generative adveresarial networks to solve constrained optimization problems with feasible sets that are non-convex or not explicitly defined. Our methodology produces epsilon-optimal solutions and demonstrates that, when there are multiple global optima, it learns a distribution over the optimal set. The code is available on [https://github.com/rafidrm/ipman my Github.] We submitted a paper to NIPS 2018.
+
+
 == GANCER - Generative Adversarial Nets for Computationally Efficient Radiotherapy
 
 Knowledge-based planning (KBP) is an automated approach to radiation therapy treatment planning that involves first predicting a desirable treatment plan, before correcting it to a deliverable one. We proposed and implemented a GAN approach to predicting desirable 3D dose distributions. Experiments on a dataset of head and neck cancer patients show that our approach significantly outperforms previous methods on several clinical satisfaction criteria and similarity metrics.
 
-The code is available on [https://github.com/rafidrm/gancer my Github.] We submitted a paper to Machine Learning in Health Care 2018.
+The code is available on [https://github.com/rafidrm/gancer my Github.] We submitted a paper to MLHC 2018.
 
 
 
