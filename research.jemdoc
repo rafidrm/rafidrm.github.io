@@ -4,18 +4,18 @@
 
 == Working papers
 - *R. Mahmood*, A. Babier, A. Diamant, and T. C. Y. Chan, "Interior Point Methods with Adversarial Networks", /submitted to Neural Information Processing Systems (NIPS) 2018/, 2018. [https://arxiv.org/abs/1805.09293 \[arXiv\]]
-- *R. Mahmood*, A. Babier, A. McNiven, A. Diamant, and T. C. Y. Chan, "Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks", /submitted to Machine Learning in Health Care (MLHC) 2018/, 2018.
 - T. C. Y. Chan, T. Lee, *R. Mahmood*, and D. Terekhov, "Multiple Observations and Goodness of Fit in Generalized Inverse Optimization", /submitted to Operations Research/, 2018. [https://arxiv.org/abs/1804.04576 \[arXiv\]]
 
 
 
 == Journal papers
-- *R. Mahmood*, A. Badr, and A. Khisti, "Streaming Codes for Multiplicative Matrix Channels with Burst Rank Loss", /accepted to IEEE Transactions on Information Theory/, 2017.
+- *R. Mahmood*, A. Badr, and A. Khisti, "Streaming Codes for Multiplicative Matrix Channels with Burst Rank Loss", /IEEE Transactions on Information Theory/, vol. 64, no. 7, pp. 5296-5311, 2018.
 - *R. Mahmood*, A. Badr, and A. Khisti, “Convolutional Codes with Maximum Column Sum Rank for Network Streaming”, /IEEE Transactions on Information Theory/, vol. 62, no. 6, pp. 3039-3052, 2016. [http://arxiv.org/abs/1506.03792 \[arXiv\]]
 
 
 
 == Conference proceedings
+- *R. Mahmood*, A. Babier, A. McNiven, A. Diamant, and T. C. Y. Chan, "Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks", /accepted for Journal of Machine Learning Research (JMLR) Workshop: Machine Learning in Health Care (MLHC) 2018/, 2018.
 - *R. Mahmood*, A. Badr, and A. Khisti, "Low Delay Network Streaming Under Burst Losses", /International Symposium on Information Theory (ISIT) 2016/, pp. 2989-2902, 2016.
 - *R. Mahmood*, A. Badr, and A. Khisti, "Convolutional Codes with Maximum Column Sum Rank for Network Streaming", /International Symposium on Information Theory (ISIT) 2015/, pp. 2271-2275, 2015.
 - A. Badr, *R. Mahmood*, and A. Khisti, "Embedded MDS Codes for Multicast Streaming", /International Symposium on Information Theory (ISIT) 2015/, pp. 2276-2280, 2015.
