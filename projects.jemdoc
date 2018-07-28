@@ -6,7 +6,7 @@
 
 IPMAN is a new methodology that combines interior point methods and generative adveresarial networks to solve constrained optimization problems with feasible sets that are non-convex or not explicitly defined. Our methodology produces epsilon-optimal solutions and demonstrates that, when there are multiple global optima, it learns a distribution over the optimal set.
 
-The code is available on [https://github.com/rafidrm/ipman my Github.] We submitted a paper to NIPS 2018.
+The code is available on [https://github.com/rafidrm/ipman my Github.]
 
 
 == GANCER - Generative Adversarial Nets for Computationally Efficient Radiotherapy
