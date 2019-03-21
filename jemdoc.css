@@ -9,6 +9,7 @@ table#tlayout {
 body {
         background: white;
         /*font-family: 'Fira Sans', sans-serif;*/
+        font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
         padding-bottom: 8px;
         margin: 0;
 }
