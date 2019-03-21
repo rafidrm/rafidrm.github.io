@@ -38,7 +38,7 @@ Convolutional Codes with Maximum Column Sum Rank for Network Streaming \n
 
 Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks \n
 *R. Mahmood*, A. Babier, A. McNiven, A. Diamant, and T. C. Y. Chan \n
-/Proceedings of Machine Learning for Health Care/, vol. 85, 2018. \n
+/Proceedings of Machine Learning for Health Care (MLHC)/, vol. 85, 2018. \n
 [http://proceedings.mlr.press/v85/ \[pdf\]][https://github.com/rafidrm/gancer \[code\]][http://arxiv.org/abs/1807.06489 \[arXiv\]]
 
 Low Delay Network Streaming Under Burst Losses\n
@@ -60,7 +60,7 @@ Embedded MDS Codes for Multicast Streaming \n
 
 Automated Treatment Planning in Radiation Therapy using 3-D Generative Adversarial Networks\n
 *A. Babier*, *R. Mahmood*, A. McNiven, A. Diamant, and T. C. Y. Chan \n
-/NeurIPS Workshop on Machine Learning 4 Health/, 2018. \n
+/NeurIPS Workshop on Machine Learning 4 Health (ML4H)/, 2018. \n
 [papers/GANCER_NIPS.pdf \[pdf\]][https://github.com/rafidrm/gancer \[code\]]
 
 
