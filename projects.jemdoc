@@ -1,19 +1,20 @@
-# jemdoc: menu{MENU}{projects.html}
+# jemdoc: nofooter
 = Projects
+[index.html home] | [projects.html projects] | [research.html publications]
 
 
-== IPMAN - Interior Point Methods with Adversarial Networks
+# == IPMAN - Interior Point Methods with Adversarial Networks
 
-IPMAN is a new methodology that combines interior point methods and generative adveresarial networks to solve constrained optimization problems with feasible sets that are non-convex or not explicitly defined. Our methodology produces epsilon-optimal solutions and demonstrates that, when there are multiple global optima, it learns a distribution over the optimal set.
+# IPMAN is a new methodology that combines interior point methods and generative adveresarial networks to solve constrained optimization problems with feasible sets that are non-convex or not explicitly defined. Our methodology produces epsilon-optimal solutions and demonstrates that, when there are multiple global optima, it learns a distribution over the optimal set.
 
-The code is available on [https://github.com/rafidrm/ipman my Github.]
+# The code is available on [https://github.com/rafidrm/ipman my Github.]
 
 
 == GANCER - Generative Adversarial Nets for Computationally Efficient Radiotherapy
 
-Knowledge-based planning (KBP) is an automated approach to radiation therapy treatment planning that involves first predicting a desirable treatment plan, before correcting it to a deliverable one. We proposed and implemented a GAN approach to predicting desirable 3D dose distributions. Experiments on a dataset of head and neck cancer patients show that our approach significantly outperforms previous methods on several clinical satisfaction criteria and similarity metrics.
+Knowledge-based automated planning (KBAP) is an automated approach to radiation therapy treatment planning that involves first predicting a desirable treatment plan, before correcting it to a deliverable one. We proposed and implemented a GAN approach to predicting desirable 3D dose distributions. Experiments on a dataset of head and neck cancer patients show that our approach significantly outperforms previous methods on several clinical satisfaction criteria and similarity metrics.
 
-The code is available on [https://github.com/rafidrm/gancer my Github.] We have a paper, accepted at MLHC 2018.
+The code is based heavily on the [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix CycleGAN-and-pix2pix] codebase, and is available on [https://github.com/rafidrm/gancer my Github.] We have several related publications and submitted work in /MLHC 2018/, /NeurIPS ML4H 2018/, and /Medical Physics/.
 
 
 
