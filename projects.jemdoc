@@ -14,7 +14,7 @@
 
 Knowledge-based automated planning (KBAP) is an automated approach to radiation therapy treatment planning that involves first predicting a desirable treatment plan, before correcting it to a deliverable one. We proposed and implemented a GAN approach to predicting desirable 3D dose distributions. Experiments on a dataset of head and neck cancer patients show that our approach significantly outperforms previous methods on several clinical satisfaction criteria and similarity metrics.
 
-The code is based heavily on the [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix CycleGAN-and-pix2pix] codebase, and is available on [https://github.com/rafidrm/gancer my Github.] We have several related publications and submitted work in /MLHC 2018/, /NeurIPS ML4H 2018/, and /Medical Physics/.
+The code is based on the [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix CycleGAN-and-pix2pix] codebase and is available on [https://github.com/rafidrm/gancer my Github.] We have several related publications and submitted work in /MLHC 2018/, /NeurIPS ML4H 2018/, and /Medical Physics/.
 
 
 
@@ -22,7 +22,7 @@ The code is based heavily on the [https://github.com/junyanz/pytorch-CycleGAN-an
 
 invo is a Python package intended to simplify the use of inverse optimization as a model fitting practice. Our goal is to provide a general framework for formulating and solving inverse optimization problems, as well as implement a collection of inverse methods. As additional algorithms and methods arise in the literature, we can implement them using the same common framework.
 
-The flavour of this work is inspired from scikit-learn on Python. The code is available on [https://github.com/rafidrm/invo my Github.] There is also a [http://pyinvo.readthedocs.io/en/latest/ ReadTheDocs] for additional documentation on usage.
+Running the models follows the scikit-learn paradigm. The code is available on [https://github.com/rafidrm/invo my Github.] There is also a [http://pyinvo.readthedocs.io/en/latest/ ReadTheDocs] for additional documentation on usage.
 
 
 
@@ -38,4 +38,6 @@ Our work was covered in [https://www.thestar.com/sports/hockey/2017/06/13/u-of-t
 
 == Quantathon 2016 (Hosted by Waterfront International Ltd.)
 
-        In 2016, we entered an algorithmic trading focused hackathon at the University of Toronto. Each team was given a dataset of three years of daily trade information (opening-closing-interday high-low price, trading volume, etc.) on 100 unnamed stocks and instructed to propose a high-low portfolio strategy with daily rebalancing. We used machine learning techniques to predict the daily open-to-close return for each stock, using both historical and correlation features. Our prediction models were then inputted into an optimizer to calculate the daily rebalancing weights that optimize the overall Sharpe ratio of our portfolio. We won first place at the Quantathon ([http://web.cs.toronto.edu/news/current/Computer_science_students_sweep_wins_at_Quathathon_2016.htm referenced here]) and presented our experience in a guest lecture for MIE465 (Analytics in Action) at the University of Toronto. A copy of the talk is available [Portfolio_Optimization.pdf here.]
+        In 2016, we entered an algorithmic trading focused hackathon at the University of Toronto. Each team was given a dataset of three years of daily trade information (opening-closing-interday high-low price, trading volume, etc.) on 100 unnamed stocks and instructed to propose a high-low portfolio strategy with daily rebalancing. We used machine learning techniques to predict the daily open-to-close return for each stock, using both historical and correlation features. Our prediction models were then inputted into an optimizer to calculate the daily rebalancing weights that optimize the overall Sharpe ratio of our portfolio. We won first place at the Quantathon ([http://web.cs.toronto.edu/news/current/Computer_science_students_sweep_wins_at_Quathathon_2016.htm referenced here])
+
+        I have presented this experience as a guest lecturer for MIE465 (Analytics in Action) at the University of Toronto every year since 2017. A copy of the talk is available [Portfolio_Optimization.pdf here.]

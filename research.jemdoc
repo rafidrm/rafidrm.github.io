@@ -2,22 +2,22 @@
 =Publications
 [index.html home] | [projects.html projects] | [research.html publications]
 
-Authors for Operations Research-style journals are alphabetical. The primary author is bolded.
+Authors for Operations Research-style journals are alphabetical. The primary author is starred.
 
 == In preparation
 
 Interior Point Methods with Adversarial Networks \n
-A. Babier, T. C. Y. Chan, A. Diamant, and *R. Mahmood*
+A. Babier, T. C. Y. Chan, A. Diamant, and *R. Mahmood\**
 
 == Under revision
 
 Knowledge-based automated planning with three-dimensional generative adversarial networks \n
-*A. Babier*, R. Mahmood, A. McNiven, A. Diamant, and T. C. Y. Chan \n
+A. Babier\*, *R. Mahmood*, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /major revision at Medical Physics/, 2018.\n
 [https://github.com/rafidrm/gancer \[code\]][https://arxiv.org/abs/1812.09309 \[arXiv\]]
 
 Multiple Observations and Goodness of Fit in Generalized Inverse Optimization \n
-T. C. Y. Chan, T. Lee, *R. Mahmood*, and D. Terekhov \n
+T. C. Y. Chan, T. Lee, *R. Mahmood\**, and D. Terekhov \n
 /major revision at Operations Research/ 2018. \n
 [https://arxiv.org/abs/1804.04576 \[arXiv\]]
 
@@ -25,11 +25,11 @@ T. C. Y. Chan, T. Lee, *R. Mahmood*, and D. Terekhov \n
 == Journal publications
 
 Streaming Codes for Multiplicative Matrix Channels with Burst Rank Loss \n
-*R. Mahmood*, A. Badr, and A. Khisti \n
+*R. Mahmood\**, A. Badr, and A. Khisti \n
 /IEEE Transactions on Information Theory/, vol. 64, no. 7, pp. 5296-5311, 2018.
 
 Convolutional Codes with Maximum Column Sum Rank for Network Streaming \n
-*R. Mahmood*, A. Badr, and A. Khisti \n
+*R. Mahmood\**, A. Badr, and A. Khisti \n
 /IEEE Transactions on Information Theory/, vol. 62, no. 6, pp. 3039-3052, 2016. \n
 [http://arxiv.org/abs/1506.03792 \[arXiv\]]
 
@@ -37,21 +37,21 @@ Convolutional Codes with Maximum Column Sum Rank for Network Streaming \n
 == Conference proceedings
 
 Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks \n
-*R. Mahmood*, A. Babier, A. McNiven, A. Diamant, and T. C. Y. Chan \n
+*R. Mahmood\**, A. Babier, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /Proceedings of Machine Learning for Health Care (MLHC)/, vol. 85, 2018. \n
 [http://proceedings.mlr.press/v85/ \[pdf\]][https://github.com/rafidrm/gancer \[code\]][http://arxiv.org/abs/1807.06489 \[arXiv\]]
 
 Low Delay Network Streaming Under Burst Losses\n
-*R. Mahmood*, A. Badr, and A. Khisti \n
+*R. Mahmood\**, A. Badr, and A. Khisti \n
 /International Symposium on Information Theory (ISIT) 2016/, pp. 2989-2902, 2016.
 
 Convolutional Codes with Maximum Column Sum Rank for Network Streaming\n
-*R. Mahmood*, A. Badr, and A. Khisti \n
+*R. Mahmood\**, A. Badr, and A. Khisti \n
 /International Symposium on Information Theory (ISIT) 2015/, pp. 2271-2275, 2015.
 
 
 Embedded MDS Codes for Multicast Streaming \n
-*A. Badr*, R. Mahmood, and A. Khisti \n
+A. Badr\*, *R. Mahmood*, and A. Khisti \n
 /International Symposium on Information Theory (ISIT) 2015/, pp. 2276-2280, 2015.
 
 
@@ -59,7 +59,7 @@ Embedded MDS Codes for Multicast Streaming \n
 == Workshop papers
 
 Automated Treatment Planning in Radiation Therapy using 3-D Generative Adversarial Networks\n
-*A. Babier*, *R. Mahmood*, A. McNiven, A. Diamant, and T. C. Y. Chan \n
+A. Babier\*, *R. Mahmood\**, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /NeurIPS Workshop on Machine Learning 4 Health (ML4H)/, 2018. \n
 [papers/GANCER_NIPS.pdf \[pdf\]][https://github.com/rafidrm/gancer \[code\]]
 
