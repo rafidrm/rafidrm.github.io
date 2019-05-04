@@ -16,10 +16,13 @@ A. Babier\*, *R. Mahmood*, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /major revision at Medical Physics/, 2018.\n
 [https://arxiv.org/abs/1812.09309 \[arXiv\]][https://github.com/rafidrm/gancer \[code\]]
 
+A Unified Framework for Model Fitting and Evaluation in Inverse Linear Optimization \n
 Multiple Observations and Goodness of Fit in Generalized Inverse Optimization \n
 T. C. Y. Chan, T. Lee, *R. Mahmood\**, and D. Terekhov \n
 /major revision at Operations Research/ 2018. \n
-[https://arxiv.org/abs/1804.04576 \[arXiv\]]
+[https://arxiv.org/abs/1804.04576 \[arXiv\]] \n
+/Previously titled Multiple Observations and Goodness of Fit in Generalized Inverse Optimization. \n
+Won Honorable Mention at CORS 2018 Best Student Paper Competition: Open Category./
 
 
 == Journal papers
@@ -58,10 +61,16 @@ A. Badr\*, *R. Mahmood*, and A. Khisti \n
 
 == Workshop papers
 
+Model Fitting in Generalized Inverse Linear Optimization: Applications in Radiation Therapy \n
+A. Babier, T. C. Y. Chan, T. Lee, *R. Mahmood\**, and D. Terekhov \n
+[papers/CHOW_2019.pdf \[pdf\]] \n
+/Workshop version of A Unified Framework for Model Fitting and Evaluation in Inverse Linear Optimization./
+
 Automated Treatment Planning in Radiation Therapy using 3-D Generative Adversarial Networks\n
 A. Babier\*, *R. Mahmood\**, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /NeurIPS Workshop on Machine Learning 4 Health (ML4H)/, 2018. \n
-[https://github.com/rafidrm/gancer \[code\]][papers/GANCER_NIPS.pdf \[pdf\]]
+[https://github.com/rafidrm/gancer \[code\]][papers/GANCER_NIPS.pdf \[pdf\]] \n
+/Workshop version of Knowledge-based Automated Treatment Planning with Three-Dimensional Generative Adversarial Networks./
 
 
 == Clinical abstracts
