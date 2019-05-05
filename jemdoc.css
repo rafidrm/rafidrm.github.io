@@ -14,38 +14,83 @@ body {
         margin: 0;
 }
 
-#layout-menu {
-        //background: #f6f6f6;
-        border: 0px solid #dddddd;
-        padding-top: 0.5em;
-        padding-left: 8px;
-        padding-right: 8px;
-        font-size: 1.0em;
-        width: auto;
-        white-space: nowrap;
-        text-align: left;
-        vertical-align: top;
+
+/* Desktop version */
+@media only screen and (min-width: 1000px) {
+        #layout-menu {
+                //background: #f6f6f6;
+                border: 0px solid #dddddd;
+                padding-top: 0.5em;
+                padding-left: 8px;
+                padding-right: 8px;
+                font-size: 1.0em;
+                width: auto;
+                white-space: nowrap;
+                text-align: left;
+                vertical-align: top;
+        }
+
+        #layout-menu td {
+                background: #f4f4f4;
+                vertical-align: top;
+        }
+
+        #layout-content {
+                padding-top: 0.0em;
+                padding-left: 20.0em;
+                padding-right: 20.0em;
+                border: none;
+                background: white;
+                text-align: left;
+                vertical-align: top;
+        }
+
+        #layout-menu a {
+                line-height: 1.5em;
+                margin-left: 0.5em;
+        }
 }
 
-#layout-menu td {
-        background: #f4f4f4;
-        vertical-align: top;
+/* Mobile version */
+@media only screen and (max-width: 999px) {
+        #layout-menu {
+                //background: #f6f6f6;
+                border: 0px solid #dddddd;
+                padding-top: 0.5em;
+                padding-left: 8px;
+                padding-right: 8px;
+                font-size: 1.0em;
+                width: auto;
+                white-space: nowrap;
+                text-align: left;
+                vertical-align: top;
+        }
+
+        #layout-menu td {
+                background: #f4f4f4;
+                vertical-align: top;
+        }
+
+        #layout-content {
+                padding-top: 0.0em;
+                padding-left: 10.0em;
+                padding-right: 10.0em;
+                border: none;
+                background: white;
+                text-align: left;
+                vertical-align: top;
+        }
+
+        #layout-menu a {
+                line-height: 1.5em;
+                margin-left: 0.5em;
+        }
 }
 
-#layout-content {
-        padding-top: 0.0em;
-        padding-left: 20.0em;
-        padding-right: 20.0em;
-        border: none;
-        background: white;
-        text-align: left;
-        vertical-align: top;
-}
 
-#layout-menu a {
-        line-height: 1.5em;
-        margin-left: 0.5em;
-}
+
+
+
 
 tt {
         background: #ffffdd;
