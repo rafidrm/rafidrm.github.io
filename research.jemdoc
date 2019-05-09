@@ -40,21 +40,21 @@ Convolutional Codes with Maximum Column Sum Rank for Network Streaming \n
 
 Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks \n
 *R. Mahmood\**, A. Babier, A. McNiven, A. Diamant, and T. C. Y. Chan \n
-/Proceedings of Machine Learning for Health Care (MLHC)/, vol. 85, 2018. \n
+/Proceedings of Machine Learning for Health Care (MLHC)/, PMLR vol. 85, 2018. \n
 [http://arxiv.org/abs/1807.06489 \[arXiv\]][https://github.com/rafidrm/gancer \[code\]][http://proceedings.mlr.press/v85/ \[pdf\]]
 
 Low Delay Network Streaming Under Burst Losses\n
 *R. Mahmood\**, A. Badr, and A. Khisti \n
-/International Symposium on Information Theory (ISIT) 2016/, pp. 2989-2902, 2016.
+/International Symposium on Information Theory (ISIT)/, pp. 2989-2902, 2016.
 
 Convolutional Codes with Maximum Column Sum Rank for Network Streaming\n
 *R. Mahmood\**, A. Badr, and A. Khisti \n
-/International Symposium on Information Theory (ISIT) 2015/, pp. 2271-2275, 2015.
+/International Symposium on Information Theory (ISIT)/, pp. 2271-2275, 2015.
 
 
 Embedded MDS Codes for Multicast Streaming \n
 A. Badr\*, *R. Mahmood*, and A. Khisti \n
-/International Symposium on Information Theory (ISIT) 2015/, pp. 2276-2280, 2015.
+/International Symposium on Information Theory (ISIT)/, pp. 2276-2280, 2015.
 
 
 
@@ -62,6 +62,7 @@ A. Badr\*, *R. Mahmood*, and A. Khisti \n
 
 Model Fitting in Generalized Inverse Linear Optimization: Applications in Radiation Therapy \n
 A. Babier, T. C. Y. Chan, T. Lee, *R. Mahmood\**, and D. Terekhov \n
+/Canadian Healthcare Operations Workshop (CHOW)/, 2019. \n
 [papers/CHOW_2019.pdf \[pdf\]] \n
 /Workshop version of A Unified Framework for Model Fitting and Evaluation in Inverse Linear Optimization./
 
