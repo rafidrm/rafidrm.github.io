@@ -9,19 +9,19 @@ Authors for Operations Research-style journals are alphabetical. The primary aut
 Interior Point Methods with Adversarial Networks \n
 A. Babier, T. C. Y. Chan, A. Diamant, and *R. Mahmood\** \n
 /preparing to submit to Operations Research./ \n
-[papers/IPMAN.pdf \[pdf\]] 
+[papers/IPMAN.pdf pdf] 
 
 == Under revision
 
 Knowledge-based automated planning with three-dimensional generative adversarial networks \n
 A. Babier\*, *R. Mahmood*, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /third-round minor review at Medical Physics/, 2018.\n
-[https://arxiv.org/abs/1812.09309 \[arXiv\]][https://github.com/rafidrm/gancer \[code\]]
+[https://arxiv.org/abs/1812.09309 arXiv] | [https://github.com/rafidrm/gancer code]
 
 A Unified Framework for Model Fitting and Evaluation in Inverse Linear Optimization \n
 A. Babier, T. C. Y. Chan, T. Lee, *R. Mahmood\**, and D. Terekhov \n
 /second-round review at Operations Research/, 2018. \n
-[https://arxiv.org/abs/1804.04576 \[arXiv\]] \n
+[https://arxiv.org/abs/1804.04576 arXiv] \n
 /Previously titled Multiple Observations and Goodness of Fit in Generalized Inverse Optimization. \n
 Won Honorable Mention at CORS 2018 Best Student Paper Competition: Open Category./
 
@@ -35,7 +35,7 @@ Streaming Codes for Multiplicative Matrix Channels with Burst Rank Loss \n
 Convolutional Codes with Maximum Column Sum Rank for Network Streaming \n
 *R. Mahmood\**, A. Badr, and A. Khisti \n
 /IEEE Transactions on Information Theory/, vol. 62, no. 6, pp. 3039-3052, 2016. \n
-[http://arxiv.org/abs/1506.03792 \[arXiv\]]
+[http://arxiv.org/abs/1506.03792 arXiv]
 
 
 == Conference proceedings
@@ -43,7 +43,7 @@ Convolutional Codes with Maximum Column Sum Rank for Network Streaming \n
 Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks \n
 *R. Mahmood\**, A. Babier, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /Proceedings of Machine Learning for Health Care (MLHC)/, PMLR vol. 85, 2018. \n
-[http://arxiv.org/abs/1807.06489 \[arXiv\]][https://github.com/rafidrm/gancer \[code\]][http://proceedings.mlr.press/v85/ \[pdf\]]
+[http://arxiv.org/abs/1807.06489 arXiv] | [https://github.com/rafidrm/gancer code] | [http://proceedings.mlr.press/v85/ pdf]
 
 Low Delay Network Streaming Under Burst Losses\n
 *R. Mahmood\**, A. Badr, and A. Khisti \n
@@ -65,13 +65,13 @@ A. Badr\*, *R. Mahmood*, and A. Khisti \n
 Model Fitting in Generalized Inverse Linear Optimization: Applications in Radiation Therapy \n
 A. Babier, T. C. Y. Chan, T. Lee, *R. Mahmood\**, and D. Terekhov \n
 /Canadian Healthcare Operations Workshop (CHOW)/, 2019. \n
-[papers/CHOW_2019.pdf \[pdf\]] \n
+[papers/CHOW_2019.pdf pdf] \n
 /Workshop version of A Unified Framework for Model Fitting and Evaluation in Inverse Linear Optimization./
 
 Automated Treatment Planning in Radiation Therapy using 3-D Generative Adversarial Networks\n
 A. Babier\*, *R. Mahmood\**, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /NeurIPS Workshop on Machine Learning 4 Health (ML4H)/, 2018. \n
-[https://github.com/rafidrm/gancer \[code\]][papers/GANCER_NIPS.pdf \[pdf\]] \n
+[https://github.com/rafidrm/gancer code] | [papers/GANCER_NIPS.pdf pdf] \n
 /Workshop version of Knowledge-based Automated Treatment Planning with Three-Dimensional Generative Adversarial Networks./
 
 
