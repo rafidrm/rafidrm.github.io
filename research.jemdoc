@@ -6,7 +6,7 @@ Authors for Operations Research-style journals are alphabetical. The primary aut
 
 == In preparation
 
-Interior Point Methods with Adversarial Networks \n
+Learning to optimize with hidden constraints \n
 A. Babier, T. C. Y. Chan, A. Diamant, and *R. Mahmood\** \n
 /preparing to submit to Operations Research./ \n
 [papers/IPMAN.pdf pdf] 
@@ -14,71 +14,70 @@ A. Babier, T. C. Y. Chan, A. Diamant, and *R. Mahmood\** \n
 
 Markov Chain Monte Carlo Sampling from the Complement of a Polyhedron \n
 T. C. Y. Chan, A. Diamant, and *R. Mahmood\** #\n
-#/preparing to submit to Operations Research./ \n
+#/preparing to submit to Operations Research Letters./ \n
 
 
 == Under revision
 
-Knowledge-based automated planning with three-dimensional generative adversarial networks \n
-A. Babier\*, *R. Mahmood*, A. McNiven, A. Diamant, and T. C. Y. Chan \n
-/third-round minor review at Medical Physics/, 2018.\n
-[https://arxiv.org/abs/1812.09309 arXiv] | [https://github.com/rafidrm/gancer code]
 
-A Unified Framework for Model Fitting and Evaluation in Inverse Linear Optimization \n
+An Ensemble Learning Framework for Model Fitting and Evaluation in Inverse Linear Optimization \n
 A. Babier, T. C. Y. Chan, T. Lee, *R. Mahmood\**, and D. Terekhov \n
-/second-round review at Operations Research/, 2018. \n
+/under review at INFORMS Journal on Optimization/, 2019. \n
 [https://arxiv.org/abs/1804.04576 arXiv] \n
-/Previously titled Multiple Observations and Goodness of Fit in Generalized Inverse Optimization. \n
-Won Honorable Mention at CORS 2018 Best Student Paper Competition: Open Category./
+- Previously titled Multiple Observations and Goodness of Fit in Generalized Inverse Optimization. \n
+- *Won Honorable Mention at CORS 2018 Best Student Paper Competition: Open Category.*
+
+Deep Learning for Automatic Audiogram Interpretation \n
+M. J. Crowson\*, A. Hamour, *R. Mahmood*, V. Lin, D. Tucci, and T. C. Y. Chan \n
+/under review at Otology & Neurotology/, 2019.
 
 
 == Journal papers
 
+Knowledge-based automated planning with three-dimensional generative adversarial networks \n
+A. Babier\*, *R. Mahmood*, A. McNiven, A. Diamant, and T. C. Y. Chan \n
+/forthcoming in Medical Physics/, 2018.\n
+[https://arxiv.org/abs/1812.09309 arXiv] | [https://github.com/rafidrm/gancer code]
+
 Streaming Codes for Multiplicative Matrix Channels with Burst Rank Loss \n
 *R. Mahmood\**, A. Badr, and A. Khisti \n
-/IEEE Transactions on Information Theory/, vol. 64, no. 7, pp. 5296-5311, 2018.
+/IEEE Transactions on Information Theory/, vol. 64, no. 7, pp. 5296-5311, 2018. \n
+[https://doi.org/10.1109/TIT.2017.2779851 doi]
 
 Convolutional Codes with Maximum Column Sum Rank for Network Streaming \n
 *R. Mahmood\**, A. Badr, and A. Khisti \n
 /IEEE Transactions on Information Theory/, vol. 62, no. 6, pp. 3039-3052, 2016. \n
-[http://arxiv.org/abs/1506.03792 arXiv]
+[http://arxiv.org/abs/1506.03792 arXiv] | [https://doi.org/10.1109/TIT.2016.2555949 doi]
 
 
 == Conference proceedings
-
-Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks \n
-*R. Mahmood\**, A. Babier, A. McNiven, A. Diamant, and T. C. Y. Chan \n
-/Proceedings of Machine Learning for Health Care (MLHC)/, PMLR vol. 85, 2018. \n
-[http://arxiv.org/abs/1807.06489 arXiv] | [https://github.com/rafidrm/gancer code] | [http://proceedings.mlr.press/v85/ pdf]
-
-Low Delay Network Streaming Under Burst Losses\n
-*R. Mahmood\**, A. Badr, and A. Khisti \n
-/International Symposium on Information Theory (ISIT)/, pp. 2989-2902, 2016.
-
-Convolutional Codes with Maximum Column Sum Rank for Network Streaming\n
-*R. Mahmood\**, A. Badr, and A. Khisti \n
-/International Symposium on Information Theory (ISIT)/, pp. 2271-2275, 2015.
-
-
-Embedded MDS Codes for Multicast Streaming \n
-A. Badr\*, *R. Mahmood*, and A. Khisti \n
-/International Symposium on Information Theory (ISIT)/, pp. 2276-2280, 2015.
-
-
-
-== Workshop papers
-
-Model Fitting in Generalized Inverse Linear Optimization: Applications in Radiation Therapy \n
-A. Babier, T. C. Y. Chan, T. Lee, *R. Mahmood\**, and D. Terekhov \n
-/Canadian Healthcare Operations Workshop (CHOW)/, 2019. \n
-[papers/CHOW_2019.pdf pdf] \n
-/Workshop version of A Unified Framework for Model Fitting and Evaluation in Inverse Linear Optimization./
 
 Automated Treatment Planning in Radiation Therapy using 3-D Generative Adversarial Networks\n
 A. Babier\*, *R. Mahmood\**, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /NeurIPS Workshop on Machine Learning 4 Health (ML4H)/, 2018. \n
 [https://github.com/rafidrm/gancer code] | [papers/GANCER_NIPS.pdf pdf] \n
-/Workshop version of Knowledge-based Automated Treatment Planning with Three-Dimensional Generative Adversarial Networks./
+- Workshop version of Knowledge-based Automated Treatment Planning with Three-Dimensional Generative Adversarial Networks.
+
+Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks \n
+*R. Mahmood\**, A. Babier, A. McNiven, A. Diamant, and T. C. Y. Chan \n
+/Proceedings of Machine Learning for Health Care (MLHC)/, PMLR vol. 85, 2018. \n
+[http://arxiv.org/abs/1807.06489 arXiv] | [https://github.com/rafidrm/gancer code] | [http://proceedings.mlr.press/v85/ doi] \n
+- *Won Runners' Up at CORS 2019 HCOR Student Presentation Competition *
+
+Low Delay Network Streaming Under Burst Losses\n
+*R. Mahmood\**, A. Badr, and A. Khisti \n
+/International Symposium on Information Theory (ISIT)/, pp. 2989-2902, 2016. \n
+[https://doi.org/10.1109/ISIT.2016.7541829 doi]
+
+Convolutional Codes with Maximum Column Sum Rank for Network Streaming\n
+*R. Mahmood\**, A. Badr, and A. Khisti \n
+/International Symposium on Information Theory (ISIT)/, pp. 2271-2275, 2015.\n
+[https://doi.org/10.1109/ISIT.2015.7282860 doi]
+
+Embedded MDS Codes for Multicast Streaming \n
+A. Badr\*, *R. Mahmood*, and A. Khisti \n
+/International Symposium on Information Theory (ISIT)/, pp. 2276-2280, 2015. \n
+[https://doi.org/10.1109/ISIT.2015.7282861 doi]
 
 
 == Clinical abstracts
