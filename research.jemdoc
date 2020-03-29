@@ -4,17 +4,16 @@
 
 Authors for Operations Research-style journals are alphabetical. The primary author is starred.
 
-== In preparation
-
-
-
-Sampling from the Complement of a Polyhedron for Learning a Hidden Feasible Set \n
-T. C. Y. Chan, A. Diamant, and *R. Mahmood\** #\n
-#/preparing to submit to Operations Research Letters./ \n
+# == In preparation
 
 
 == Under review
 
+
+Sampling from the Complement of a Polyhedron: An MCMC Algorithm for Data Augmentation \n
+T. C. Y. Chan, A. Diamant, and *R. Mahmood\** \n
+/under review at Operations Research Letters/, 2020. \n
+[https://github.com/rafidrm/mcmc-complement code] | [papers/MCMC_Sampling_Complement.pdf pdf]
 
 Learning to Optimize with Hidden Constraints \n
 A. Babier, T. C. Y. Chan, A. Diamant, and *R. Mahmood\** \n
@@ -69,7 +68,7 @@ Convolutional Codes with Maximum Column Sum Rank for Network Streaming \n
 Automated Treatment Planning in Radiation Therapy using 3-D Generative Adversarial Networks\n
 A. Babier\*, *R. Mahmood\**, A. McNiven, A. Diamant, and T. C. Y. Chan \n
 /NeurIPS Workshop on Machine Learning 4 Health (ML4H)/, 2018. \n
-[https://github.com/rafidrm/gancer code] | [papers/GANCER_NIPS.pdf pdf] \n
+[https://github.com/rafidrm/gancer code] | [papers/GANCER_NIPS.pdf pdf]
 # - Workshop version of Knowledge-based Automated Treatment Planning with Three-Dimensional Generative Adversarial Networks.
 
 Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks \n
