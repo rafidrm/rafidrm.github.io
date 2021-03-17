@@ -11,7 +11,7 @@ Authors for Operations Research-style entries are listed in alphabetical style.
 
 <div class="publications">
 
-<h2 class="year">Under review</h2>
+<h2 class="year">Pre-prints/under review</h2>
 {% bibliography -f papers -q @misc %}
 
 <h2 class="year">Journal articles</h2>
