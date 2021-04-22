@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data-driven Personalized Healthcare 
-description: The combination of machine learning and data-driven optimization can be used in several healthcare applications to improve factors such as effectiveness, quality of care and service, and access to treatment. Problems in these domains often require predictinve analytics to estimate relevant problem characteristics which are used to fuel a decision-making model. In my research, I have worked on personalized treatment, e.g., design of radiation therapy treatments for head-and-neck cancer, estimating degree of hearing loss and post-operative effects of hearing aids, as well as healthcare management, e.g., data-driven batching in milk-banks. 
+description: Machine learning and data-driven optimization can be used to automate decision-making processes, thereby improving effectiveness, quality of care, and access to treatment. Predictive modeling can estimate relevant factors needed to fuel decision-making models. In my research, I have developed new methods for automating personalized treatment in cancer therapy and otolaryngology, as well as healthcare operations in milk bank clinics.
 ---
 
 
