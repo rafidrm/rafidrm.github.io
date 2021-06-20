@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data-driven Personalized Healthcare 
-description: Machine learning and data-driven optimization can be used to automate decision-making processes, thereby improving effectiveness, quality of care, and access to treatment. Predictive modeling can estimate relevant factors needed to fuel decision-making models. In my research, I have developed new methods for automating personalized treatment in cancer therapy and otolaryngology, as well as healthcare operations in milk bank clinics.
+title: Artificial Intelligence and Personalized Healthcare 
+description: Machine learning and data-driven optimization can automate healthcare services in order to improve effectiveness, quality of care, and access to treatment. This research applies predictive and prescriptive modeling in personalized medicine (cancer therapy and otolaryngology) and clinical services (donation management in milk banks).
 ---
 
 
