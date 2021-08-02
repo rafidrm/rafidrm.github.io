@@ -13,7 +13,10 @@ social: true
 I am an AI Resident Researcher at the NVIDIA Toronto AI Lab. I completed my PhD in the Department of Mechanical and Industrial Engineering and my MASc and BASc in the Department of Electrical and Computer Engineering, all at the University of Toronto. 
 
 
-My research interests involve deep learning and data-driven optimization for solving problems in prescriptive analytics. This research covers applications in personalized medicine, clinic operations, and portfolio optimization. Outside of research, I have also worked on problems in sports analytics and quantitative finance.
+My research employs deep learning and data-driven optimization for large-scale operational problems. This work covers applications in healthcare (e.g., personalized medicine, clinic operations), portfolio optimization, and the deployment of AI systems.
+I am also involved in data science work within sports analytics. 
+
+
 
 
 Before the COVID-19 pandemic, I was an avid traveller. In 2017, I completed a personal milestone of traveling to every continent (not including Antarctica). My current goal of future destinations include Azerbaijan and South Africa.
