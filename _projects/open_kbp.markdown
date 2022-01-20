@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Open Knowledge-Based Planning Challenge
+date: 2021-01-01 00:00:00-0500
 redirect: https://www.aapm.org/GrandChallenge/OpenKBP/
 github: https://github.com/ababier/open-kbp
 description: Knowledge-based planning (KBP) is an automated approach to radiation therapy treatment planning that involves first predicting a desirable treatment plan, before correcting it to a deliverable one. Current research on automated planning is limited due to private clinical data sets and evaluation metrics. We created an open and standardized data set along with an OpenKBP Challenge to adavance fair and consistent comparisons of KBP prediction models. This challenge ran from January 2020 to June 2020.

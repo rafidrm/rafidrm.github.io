@@ -5,12 +5,12 @@ permalink: /projects/
 nav: true
 ---
 
-I am interested in data science and applications of machine learning. Below are some projects in which I have participated.
+I am interested in machine learning and data science. Below are some projects that I have worked on in the past.
 
 
 <div class="projects grid">
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
+  {% assign sorted_projects = site.projects | sort: "date" %}
   {% for project in sorted_projects %}
   <div class="grid-item">
     {% if project.redirect %}

@@ -1,14 +1,21 @@
 ---
 layout: page
-title: 2017 NHL Expansion Draft Optimizer 
-date: 2017-06-01 00:00:00-0500
-description: The Vegas Golden Knights entered the NHL in the 2017-2018 season. On June 21, 2017, the team drafted 30 players, one from each of the 30 current NHL teams, subject to a set of drafting and protection rules that all teams must follow. We developed a web app to simulate the drafting and protection problems in real-time given a set of management preferences such as maximizing the on-ice performance or financial flexibiltiy for teams. 
+title: 2021 NHL Expansion Draft Optimizer 
+date: 2021-07-01 00:00:00-0500
+redirect: https://pubsonline.informs.org/do/10.1287/orms.2021.05.29/full/
+description: The Seattle Kraken entered the NHL in the 2021-2022 season by drafting 30 players from the current NHL teams on July 21, 2021, subject to a set of drafting and protection rules. We developed a web app to simulate the drafting and protection problems in real-time given a set of management preferences such as maximizing the on-ice performance or financial flexibiltiy for teams. 
 ---
 
 
 
 
+[Click here to go to the website.](http://nhlexpansiondraft.com)
 
+
+Click here to see our complete article in [OR/MS Today](https://pubsonline.informs.org/do/10.1287/orms.2021.05.29/full/) and our coverage in [The Seattle Times](https://www.seattletimes.com/sports/kraken/this-interactive-tool-allows-you-to-build-your-own-kraken-roster-ahead-of-wednesdays-expansion-draft/?utm_medium=Social&utm_campaign=owned_echobox_sports&utm_source=Twitter#Echobox=1626797028).
+
+
+{% comment %}
 <div class="col">
     <img class="col three center" src="{{ site.baseurl }}/assets/img/uoft-students.jpg" alt="" title="Photo taken from the Toronto Star"/>
 </div>
@@ -16,13 +23,10 @@ description: The Vegas Golden Knights entered the NHL in the 2017-2018 season. O
     Source: The Toronto Star.  
 </div>
 
-
-{% comment %}
-[Click here to go to the website.](http://nhlexpansiondraft.com)
 {% endcomment %}
 
 
-[Click here to see our coverage in The Toronto Star.](https://www.thestar.com/sports/hockey/2017/06/13/u-of-t-engineers-an-expansion-roster-for-vegas-with-the-click-of-a-button.html)
+
 
 
 ## Overview

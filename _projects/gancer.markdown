@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Generative Adversarial Networks for Computationally Efficient Radiotherapy 
+date: 2018-01-01 00:00:00-0500
 redirect: https://github.com/rafidrm/gancer
 github: https://github.com/rafidrm/gancer
 description: Knowledge-based planning (KBP) prediction models estimate the dose of radiation to be delivered to cancer patients using patient features. We proposed a generative adversarial network (GAN) to predict the entire 3-D dose distribution from contoured CT images. Experiments on a clinical data set of head-and-neck cancer patients showed that our GAN-based approach significantly outperformed prior deep learning and classical machine learning methods when evaluated on clinical satisfaction criteria.
