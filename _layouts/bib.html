@@ -18,7 +18,7 @@
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <span class="title">{{entry.title}}</span>
+      <span class="title"><strong>{{entry.title}}</strong></span>
       <span class="author">
         {% for author in entry.author_array %}
           {% if forloop.length == 1 %}
@@ -72,22 +72,32 @@
       [<a class="abstract">Abs</a>]
     {% endif %}
     {% if entry.arxiv %}
-        [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
+        &nbsp;
+        <a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank"><i class="fas fa-bookmark 7x"> arXiv</i></a>
+        &nbsp;
     {% endif %}
     {% if entry.code %}
-        [<a href="{{ entry.code }}" target="_blank">Code</a>]
+        &nbsp;
+        <a href="{{ entry.code }}" target="_blank"><i class="fas fa-code 7x"> Code</i></a>
+        &nbsp;
     {% endif %}
     {% if entry.html %}
-        [<a href="{{ entry.html }}" target="_blank">Paper</a>]
+        &nbsp;
+        <a href="{{ entry.html }}" target="_blank"><i class="fas fa-file-alt 7x"> Paper</i></a>
+        &nbsp;
     {% endif %}
     {% if entry.medrxiv %}
         [<a href="{{ entry.medrxiv }}" target="_blank">medRxiv</a>]
     {% endif %}
     {% if entry.doi %}
-        [<a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI</a>]
+        &nbsp;
+        <a href="https://doi.org/{{ entry.doi }}" target="_blank"><i class="fas fa-university 7x"> DOI</i></a>
+        &nbsp;
     {% endif %}
     {% if entry.pdf %}
-        [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
+        &nbsp;
+        <a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank"><i class="fas fa-file-alt 7x"> Paper</i></a>
+        &nbsp;
     {% endif %}
     {% if entry.poster %}
         [<a href="{{ entry.poster | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster</a>]
@@ -106,8 +116,18 @@
         </span>
     {% endif %}
 
+    <ul class="fa-ul">
+        {% if entry.awards %}
+        <li><span class="fa-li"><i class="fas fa-medal 7x" style="color:#F29105"></i></span><strong><p style="color:#F29105">{{ entry.awards }}</p></strong></li>
+        {% endif %}
+        {% if entry.prevsub %}
+        <li><span class="fa-li"><i class="fas fa-book 7x" style="color:#009f06"></i></span><strong><p style="color:#009f06">{{ entry.prevsub }}</p></strong></li>
+        {% endif %}
+    </ul>
+    
+
     {% if entry.comments %}
-        <span>
+    <span>
         <p>
             <ul>{{ entry.comments }}</ul>
         </p>
