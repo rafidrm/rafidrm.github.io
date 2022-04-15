@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Artificial Intelligence and Personalized Healthcare 
-description: Machine learning and data-driven optimization can automate healthcare services in order to improve effectiveness, quality of care, and access to treatment. This research applies predictive and prescriptive modeling in personalized medicine (cancer therapy and otolaryngology) and clinical services (donation management in milk banks).
+title: Artificial Intelligence in Personalized Healthcare 
+description: Machine learning and data-driven optimization can automate healthcare services in order to improve effectiveness, quality of care, and access to treatment. This research applies predictive and prescriptive modeling in personalized medicine (e.g., cancer therapy and otolaryngology) and clinical services (e.g., milk bank donation management).
 ---
 
 
