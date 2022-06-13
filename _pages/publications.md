@@ -25,19 +25,6 @@ The articles below are ordered by <a href="#preprints">pre-prints</a>, <a href="
 {% bibliography -f applied_papers %}
 
 
-{% comment %}
-
-<h2 class="year">Pre-prints/under review</h2>
-{% bibliography -f papers -q @misc %}
-
-<h2 class="year">Journal articles</h2>
-{% bibliography -f papers -q @article %}
-
-<h2 class="year">Conference proceedings</h2>
-{% bibliography -f papers -q @inproceedings %}
-
-
-{% endcomment %}
 
 </div>
 
