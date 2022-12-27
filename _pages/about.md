@@ -4,7 +4,7 @@ title: about
 permalink: /
 profile:
   align: right 
-  image: RMahmood_V2.jpg
+  image: RMahmood_V2.JPG
 news: true
 social: true
 ---
