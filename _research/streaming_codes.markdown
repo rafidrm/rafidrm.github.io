@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Error Correction Coding for Real-Time Multimedia Communication 
+title: Real-time Multimedia Error Correction Coding and Information Theory 
 description: In real-time Internet streaming, data packets are encoded with error correction to protect against transmission failures as they flow through nodes in a network. This research introduces a series of error correction coding algorithms for real-time multimedia that ensures the data is resilient to the types of error patterns typically found in Internet streaming. I am no longer active in this area.
 ---
 
