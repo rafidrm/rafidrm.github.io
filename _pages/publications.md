@@ -10,7 +10,7 @@ Authors for Operations Research-style entries are listed in alphabetical order.
 The articles below are ordered by <a href="#preprints">pre-prints</a>, <a href="#methods">methodological papers</a>, and <a href="#applied">applied papers</a>. 
 
 
-[**Click here to see a chronological organization.**]({{ site.baseurl }}{% link _pages/publications_chronological.md %})
+[**Click here to see papers organized by chronology.**]({{ site.baseurl }}{% link _pages/publications_chronological.md %})
 
 <div class="publications">
 

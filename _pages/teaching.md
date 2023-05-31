@@ -9,7 +9,16 @@ nav: true
 
 
 <div class="projects grid">
-
+  
+  <div class="grid-item">
+        <div class="card-body">
+          <h2 class="card-title">ADM 2304: Applications of Statistical Methods in Business</h2>
+          <p class="card-text">
+            Topics include the estimation (using confidence intervals) and hypothesis testing (including non-parametric methods); correlation and the simple linear regression model (with extensions to multiple regression); and chi-square tests on qualitative data. Emphasis on understanding when and how to use (and not misuse) various methods. 
+          </p>
+        </div>
+  </div>
+<!--
   <div class="grid-item">
         <div class="card-body">
           <h2 class="card-title">MIE 465: Analytics in Action</h2>
@@ -42,7 +51,7 @@ nav: true
           </p>
         </div>
   </div>
-
+-->
 
 </div>
 
