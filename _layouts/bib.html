@@ -129,6 +129,9 @@
         {% if entry.prevsub %}
         <li><span class="fa-li"><i class="fas fa-book 7x" style="color:#009f06"></i></span><strong><p style="color:#009f06">{{ entry.prevsub }}</p></strong></li>
         {% endif %}
+        {% if entry.presented %}
+        <li><span class="fa-li"><i class="fas fa-podium 7x" style="color:#FF3636"></i></span><strong><p style="color:#FF3636">{{ entry.presented }}</p></strong></li>
+        {% endif %}
     </ul>
     
 
