@@ -24,6 +24,13 @@ My work addresses ML technology (e.g., [computer vision systems](https://nv-tlab
 I am also interested in general data science problems (e.g., [sports analytics](https://pubsonline.informs.org/do/10.1287/orms.2021.05.29/full://pubsonline.informs.org/do/10.1287/orms.2021.05.29/full/)).
 
 
+
+
+
+**Students interested in (Undergraduate/Masters/PhD) supervision at Telfer are welcome to [contact me here](mailto:mahmood@telfer.uottawa.ca) with a CV and transcript.**
+
+**Graduate students interested in internships at NVIDIA are welcome to [contact me here](mailto:rmahmood@nvidia.com) with a CV and summary of research interests.** 
+
 <!--
 Before the COVID-19 pandemic, I was an avid traveller. In 2017, I completed a personal milestone of traveling to every continent (not including Antarctica). My current goal of future destinations include Azerbaijan and South Africa.
 -->
