@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications_chronological/
-years: [2022, 2021, 2020, 2018, 2016, 2015]
+years: [2023, 2022, 2021, 2020, 2018, 2016, 2015]
 nav: true
 ---
 
