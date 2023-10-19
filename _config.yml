@@ -90,7 +90,7 @@ collections:
     output: true
     permalink: /research/:path/
 
-news_limit: 5
+news_limit: 8
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
