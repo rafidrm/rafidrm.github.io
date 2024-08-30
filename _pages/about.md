@@ -25,14 +25,3 @@ I am also interested in general data science problems (e.g., [sports analytics](
 **Graduate students interested in internships at NVIDIA are welcome to [contact me here](mailto:rmahmood@nvidia.com) with a CV and summary of research interests.** 
 
 
-<!--
-
-[**Interested in working with me at Telfer, or at NVIDIA?**]({{ site.baseurl }}{% link _pages/working_with_me.md %})
-
-<!--
-Before the COVID-19 pandemic, I was an avid traveller. In 2017, I completed a personal milestone of traveling to every continent (not including Antarctica). My current goal of future destinations include Azerbaijan and South Africa.
--->
-
-
-
-
