@@ -18,15 +18,15 @@ nav: true
           </p>
         </div>
   </div>
-<!--
   <div class="grid-item">
         <div class="card-body">
-          <h2 class="card-title">MIE 465: Analytics in Action</h2>
+          <h2 class="card-title">MGT 5301: Predictive Analytics</h2>
           <p class="card-text">
-            This senior undergraduate course covers predictive and prescriptive analytics focusing on case studies. The methods studied include regression, classification, clustering, optimization, and simulation. Applications are drawn from business, finance, health care, public sector, and sports. 
+            This graduate (Masters) level course covers the methodological foundation of machine learning and their applications in behavioral and marketing contexts. Methodological topics include generative models, kernels, Gaussian models, Gaussian processes, graphical models, and deep learning models. Applications include predictive analytics across a range of behavioral contexts including public health, social media, and digital marketing.
           </p>
         </div>
   </div>
+<!--
   <div class="grid-item">
         <div class="card-body">
           <h2 class="card-title">MIE 258: Engineering Economics and Accounting</h2>
