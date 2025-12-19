@@ -20,6 +20,14 @@ nav: true
   </div>
   <div class="grid-item">
         <div class="card-body">
+          <h2 class="card-title">ADM 4307: Business Forecasting Analytics</h2>
+          <p class="card-text">
+            Advanced predictive analytics methods for business and management; time series analysis, econometric modeling, growth models, substitution and diffusion models, opinion polling, technology forecasting; selection of appropriate prediction techniques, collection and use of data, critical evaluation of results. Overview of advanced quantitative and qualitative techniques and of their context of utilization via presentations, projects and in-class discussions.
+          </p>
+        </div>
+  </div>
+  <div class="grid-item">
+        <div class="card-body">
           <h2 class="card-title">MGT 5301: Predictive Analytics</h2>
           <p class="card-text">
             This graduate (Masters) level course covers the methodological foundation of machine learning and their applications in behavioral and marketing contexts. Methodological topics include generative models, kernels, Gaussian models, Gaussian processes, graphical models, and deep learning models. Applications include predictive analytics across a range of behavioral contexts including public health, social media, and digital marketing.

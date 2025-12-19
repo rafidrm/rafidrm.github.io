@@ -52,27 +52,3 @@ nav: true
 
 
 
-
-{% comment %}
-
-
-<div class="publications">
-
-
-{% assign sorted_projects = site.research | sort: "importance" %}
-{% for project in sorted_projects %}
-
-<a href="{{ project.url | relative_url }}">
-<h2 class="year">{{ project.title }}</h2>
-</a>
-<p>{{ project.description }}</p>
-
-{% endfor %}
-
-
-</div>
-
-
-
-
-{% endcomment %}

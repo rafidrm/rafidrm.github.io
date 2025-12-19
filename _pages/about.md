@@ -11,7 +11,7 @@ social: true
 
 
 I am an Assistant Professor at the [Telfer School of Management](https://telfer.uottawa.ca/en/) in the University of Ottawa. 
-I am also a part-time Sr. Research Scientist at the [NVIDIA Toronto AI Lab](https://nv-tlabs.github.io).
+I am also a Sr. Research Scientist with [NVIDIA Autonomous Vehicles Applied Research (AVAR)](https://research.nvidia.com/labs/av-applied-research/), which is part of the [Spatial Intelligence Lab](https://research.nvidia.com/labs/sil/).
 
 
 
