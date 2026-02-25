@@ -28,6 +28,35 @@
   }
 }
 
+// About page profile image should float beside only the intro text, not force a fixed column.
+.about-profile {
+  width: min(38%, 280px);
+  margin-bottom: 1rem;
+}
+
+.about-profile-right {
+  float: right;
+  margin-left: 1.5rem;
+}
+
+.about-profile-left {
+  float: left;
+  margin-right: 1.5rem;
+}
+
+.about-full-width-break {
+  clear: both;
+}
+
+@media (max-width: 767.98px) {
+  .about-profile {
+    float: none;
+    width: min(70%, 260px);
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 // TODO: redefine content layout.
 
 

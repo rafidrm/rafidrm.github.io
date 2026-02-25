@@ -20,8 +20,9 @@ I use deep learning and data-driven optimization for problems where the typical 
 My work addresses ML technology (e.g., [computer vision systems](https://nv-tlabs.github.io/LearnOptimizeCollect/)), healthcare (e.g., [personalized medicine](https://www.aapm.org/GrandChallenge/OpenKBP/)), and finance (e.g., [portfolio optimization](https://arxiv.org/pdf/1805.09293.pdf)). 
 I am also interested in general data science problems (e.g., [sports analytics](https://pubsonline.informs.org/do/10.1287/orms.2021.05.29/full://pubsonline.informs.org/do/10.1287/orms.2021.05.29/full/)).
 
+<div class="about-full-width-break"></div>
+
 **Students interested in (Undergraduate/Masters/PhD) supervision at Telfer are welcome to [contact me here](mailto:mahmood@telfer.uottawa.ca) with a CV and transcript.**
 
 **Graduate students interested in internships at NVIDIA are welcome to [contact me here](mailto:rmahmood@nvidia.com) with a CV and summary of research interests.** 
-
 

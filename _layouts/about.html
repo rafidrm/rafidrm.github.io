@@ -19,22 +19,21 @@ layout: default
   </header>
 
   <article>
-    <div class="row">
-      <div class="col">
-        {{ content }}
-      </div>
-        {% if page.profile %}
-        <div class="profile col-4 {% if page.profile.align == 'left' %}order-first{% endif %}">
-          {% if page.profile.image %}
-            <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
-          {% endif %}
-          {% if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-          {% endif %}
+    {% if page.profile %}
+    <div class="profile about-profile {% if page.profile.align == 'left' %}about-profile-left{% else %}about-profile-right{% endif %}">
+      {% if page.profile.image %}
+        <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+      {% endif %}
+      {% if page.profile.address %}
+        <div class="address">
+          {{ page.profile.address }}
         </div>
-        {% endif %}
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <div class="clearfix">
+      {{ content }}
     </div>
 
     {% if page.news %}
