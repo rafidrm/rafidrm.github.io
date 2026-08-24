@@ -57,7 +57,7 @@ nav: true
 
   <div class="grid-item">
     <div class="hoverable">
-      <img src="{{ '/assets/img/students/placeholder.png' | relative_url }}" alt="Yibo Wang">
+      <img src="{{ '/assets/img/students/yibo_wang.jpg' | relative_url }}" alt="Yibo Wang">
       <div class="card-body">
         <h2 class="card-title">Yibo<br>Wang</h2>
         <p class="card-text">PhD, DTI<br>2026–</p>
