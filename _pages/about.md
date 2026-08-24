@@ -22,7 +22,5 @@ I am also interested in general data science problems (e.g., [sports analytics](
 
 <div class="about-full-width-break"></div>
 
-**Students interested in (Undergraduate/Masters/PhD) supervision at Telfer are welcome to [contact me here](mailto:mahmood@telfer.uottawa.ca) with a CV and transcript.**
-
-**Graduate students interested in internships at NVIDIA are welcome to [contact me here](mailto:rmahmood@nvidia.com) with a CV and summary of research interests.** 
+**[Interested in working with me as a student, postdoc, or research intern? Read this first.]({{ site.baseurl }}{% link _pages/working-with-me.md %})**
 
