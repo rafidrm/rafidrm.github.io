@@ -77,7 +77,7 @@ nav: true
 
   <div class="grid-item">
     <div class="hoverable">
-      <img src="{{ '/assets/img/students/placeholder.png' | relative_url }}" alt="Gaurav Khanal">
+      <img src="{{ '/assets/img/students/gaurav_khanal.jpg' | relative_url }}" alt="Gaurav Khanal">
       <div class="card-body">
         <h2 class="card-title">Gaurav<br>Khanal</h2>
         <p class="card-text">MSc, Systems Engineering<br>2026–</p>
