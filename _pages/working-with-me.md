@@ -13,6 +13,8 @@ I supervise students at the University of Ottawa through several programs: the P
 
 The applications that catch my attention show that you have actually read my recent papers and have something to say about them (see my [publications]({{ site.baseurl }}{% link _pages/publications.md %})): a specific observation, an extension you would be excited to pursue, or a question the work left you with. This tells me far more about how you think than any summary of your background.
 
+**Please do not send me AI-generated emails.** I can usually tell when AI has supplied the writing or the ideas behind it. I am looking for original thought and want to hear your own observations and questions, in your own words. A few thoughtful sentences are more useful to me than a long essay.
+
 Please do not send emails that only list your background, echo keywords from my research, or mention a paper or two without engaging with them. These are indistinguishable from mass emails. I read every application I receive, but I receive more than I can reply to individually, and emails of this kind are unlikely to receive a response.
 
 **Undergraduates at the University of Ottawa.**
